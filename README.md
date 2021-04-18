@@ -15,9 +15,11 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Luggage_v1_00.
     
     non-Vine reviews : 6690    
 
+**Data Frame for Vine reviews**
 
 ![DataFrame for Vine](Dataframe-Paid.png)
 
+**Data Frame for non-Vine reviews**
 
 ![DataFrame for non-Vine](Dataframe-unpaid.png)
 
@@ -27,11 +29,13 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Luggage_v1_00.
     
     Non-vine revreviews 5 star : 3448
     
-   
+ **Data Frame for 5 star Vine reviews** 
+ 
  ![Five star vine review dataframe](Df_5star_paid.png)
  
  
-   
+**Data Frame for 5 star non-Vine reviews**  
+
  ![Five star non-vine review dataframe](Df_5star_unpaid.png)
  
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
