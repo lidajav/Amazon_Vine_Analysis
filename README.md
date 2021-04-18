@@ -46,7 +46,7 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Luggage_v1_00.
     
 ## Summary
 
-According to our analysis for this dataset, the percentage of 5 star vine reviews that have got 50% or more helpful votes are in line with non vine (unpaid) reviews and even lower by around 4% which shows they are not biased.  
+According to our analysis for this dataset, the percentage of 5 star vine reviews with over 50% helpful votes is 48% versus non-vine reviews at 52%. That shows they are in line  which shows the vine reviews are not biased for this dataset.  
 
 An additional anlaysis could be chacking for 1 star rating as well to see the difference in percentages. I actually ran this and it showed the percentage for vine is 4.7% versus for un-vine is 15.92%. That means we may have a bias in giving 1 star for vine ratings. However we don't have a large data on vine ratings on this dataset and we need more data to claim the bias. 
 
