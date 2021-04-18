@@ -12,29 +12,32 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Luggage_v1_00.
 - How many Vine reviews and non-Vine reviews were there?
 
     Vine reviews : 21
+    
     non-Vine reviews : 6690    
 
-**Data Frame for Vine reviews**
+
 ![DataFrame for Vine](Dataframe-Paid.png)
 
-**Data Frame for non-Vine reviews**
-![DataFrame for non-Vine](Dataframe-unPaid.png)
+
+![DataFrame for non-Vine](Dataframe-unpaid.png)
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
     Vine reviews 5 stars: 10
+    
     Non-vine revreviews 5 star : 3448
     
- **Data Frame for 5 star Vine reviews**   
- ![Five star vine review dataframe](DF_5star_paid.png)
+   
+ ![Five star vine review dataframe](Df_5star_paid.png)
  
  
- **Data Frame for 5 star non-Vine reviews**   
- ![Five star non-vine review dataframe](DF_5star_unpaid.png)
+   
+ ![Five star non-vine review dataframe](Df_5star_unpaid.png)
  
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
     The percentage 5-star reviews for all Vine : 47.62%
+    
     The percentage 5-star reviews for all non-Vine : 51.54%
     
 ## Summary
